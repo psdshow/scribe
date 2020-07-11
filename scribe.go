@@ -8,7 +8,7 @@ import (
 	"database/sql/driver"
 	"errors"
 	"fmt"
-	"github.com/apache/thrift/lib/go/thrift"
+	"github.com/psdshow/thrift_0_9_3_1"
 )
 
 // (needed to ensure safety because of naive import list construction.)

@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"errors"
 	"fmt"
-	"github.com/apache/thrift/lib/go/thrift"
+	"github.com/psdshow/thrift_0_9_3_1"
 	"net"
 	"net/http"
 	"os"
